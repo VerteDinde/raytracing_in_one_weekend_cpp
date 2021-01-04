@@ -1,6 +1,9 @@
 #ifndef VEC3_H
 #define VEC3_H
 
+// The reason for ifndef:
+// https://stackoverflow.com/questions/3246803/why-use-ifndef-class-h-and-define-class-h-in-h-file-but-not-in-cpp
+
 #include <cmath>
 #include <iostream>
 
