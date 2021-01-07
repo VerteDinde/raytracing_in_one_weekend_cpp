@@ -6,7 +6,9 @@ Walking through Peter Shirley's awesome book series, [Raytracing in One Weekend]
 
 The original README didn't have much instruction on setting up your C++ project. Since I'm coming from a JavaScript background, I needed a bit of help with this. 
 
-If you found this repo and, like me, have very limited C++ experience, I hope this helps! As an example, this is how I handled building and outputs for the first chapter (Output An Image) using VSCode with the basic C++ extension:
+If you found this repo and, like me, have very limited C++ experience, I hope this helps! 
+
+As an example, this is how I handled building and outputs for the first chapter (Output An Image) using VSCode with the basic C++ extension. Make sure you have existing `src` and `build` directories:
 
 ```c++
 // build the exe output
